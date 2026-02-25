@@ -2,7 +2,7 @@ name: Generate Doxygen Documentation
 
 on:
   push:
-    branches: [ "main" ] # Зміни на "master", якщо твоя головна гілка так називається
+    branches: [ "gh-pages" ] 
 
 permissions:
   contents: write
