@@ -4,7 +4,7 @@
 /// Implementing a circular buffer for storing objects.
 /// </summary>
 /// <remarks>
-/// <para>The Enqueue method algorithm is described in UML: <a href="ActivityDiagram.png">Activity diagram</a>.</para>
+/// <para>The Enqueue method algorithm is described in UML: <a href="img/activity_diagram.png">Activity diagram</a>.</para>
 /// </remarks>
 /// <typeparam name="T">The type of item in the queue.</typeparam>
 public class InventoryQueue<T> : IInventoryQueue<T>
@@ -92,4 +92,5 @@ public class InventoryQueue<T> : IInventoryQueue<T>
         _tail = _size;
         _capacity = newCapacity;
     }
+
 }
