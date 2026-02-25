@@ -1,0 +1,27 @@
+var classPlayerControls =
+[
+    [ "IPlayerActions", "interfacePlayerControls_1_1IPlayerActions.html", "interfacePlayerControls_1_1IPlayerActions" ],
+    [ "IUIActions", "interfacePlayerControls_1_1IUIActions.html", "interfacePlayerControls_1_1IUIActions" ],
+    [ "PlayerActions", "structPlayerControls_1_1PlayerActions.html", "structPlayerControls_1_1PlayerActions" ],
+    [ "UIActions", "structPlayerControls_1_1UIActions.html", "structPlayerControls_1_1UIActions" ],
+    [ "PlayerControls", "classPlayerControls.html#adc1140eca6e181a19cb6fb66b2a6b79b", null ],
+    [ "Contains", "classPlayerControls.html#a2058c3a92a724f0e68122e50106b5d42", null ],
+    [ "Disable", "classPlayerControls.html#ae922b055a0900974d3a080189efe667d", null ],
+    [ "Dispose", "classPlayerControls.html#aa5c0b89fa68f1e783335ac761b9b8ab0", null ],
+    [ "Enable", "classPlayerControls.html#a4b42199b1102287476f7c75ca5b452e7", null ],
+    [ "FindAction", "classPlayerControls.html#ae95fecba8b667ed522bc934de556553b", null ],
+    [ "FindBinding", "classPlayerControls.html#ae280cc6d3f1df34376e7e888a1757f5f", null ],
+    [ "GetEnumerator", "classPlayerControls.html#a7c1c578fca6c03a5566a53c5a109febf", null ],
+    [ "asset", "classPlayerControls.html#a76f4ad7d2df11c0e3ac32c787d0f5283", null ],
+    [ "bindingMask", "classPlayerControls.html#a9422300820fc688d9b3b7527b129ee7f", null ],
+    [ "bindings", "classPlayerControls.html#afc8b4a5b60b65259461c9f1bdb7807f5", null ],
+    [ "controlSchemes", "classPlayerControls.html#a6229f581cb1747d05b59c28c0fe78241", null ],
+    [ "devices", "classPlayerControls.html#af66089f4f9ff105d015487bf00bf7fd2", null ],
+    [ "GamepadScheme", "classPlayerControls.html#ad68b8ec98ce6be98d5ba9d9391266506", null ],
+    [ "JoystickScheme", "classPlayerControls.html#ad4bc2e712431d061c8f98774547fe285", null ],
+    [ "KeyboardMouseScheme", "classPlayerControls.html#a457f2486f899dd6f5141fbf351d8d4bc", null ],
+    [ "Player", "classPlayerControls.html#a93e0e75d06e6e984c96e0fff461e8b35", null ],
+    [ "TouchScheme", "classPlayerControls.html#a5f06e30e8d5564d0cdfe120150327ba1", null ],
+    [ "UI", "classPlayerControls.html#a31be0d2511526701d6472dad2c4c8379", null ],
+    [ "XRScheme", "classPlayerControls.html#a52739249238bbdf87eb61245463b7e96", null ]
+];
